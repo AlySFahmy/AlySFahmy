@@ -3,4 +3,5 @@
 ## Wazzup, it's ya boy Aly!!! 👋
 
 I'm a software engineer focused on web development.
-my best work is fueled by anger and tears..
+
+my best work is fueled by anger and tears.. love it!
