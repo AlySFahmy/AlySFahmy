@@ -6,3 +6,7 @@
 
 <p>I'm a software engineer focused on web development.<br/>
 My best work is fueled by anger and tears... love it!</p>
+
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
